@@ -3,6 +3,7 @@
 a = int(input("Enter first number: "))
 b = int(input("Enter second number: "))
 
+#Brian Kernighan’s Algorithm for Counting Set Bits:
 def count_set_bits(n):
     count = 0
     while n:
