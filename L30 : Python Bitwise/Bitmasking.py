@@ -1,0 +1,2 @@
+#  Bitmasking is a technique where you use the individual bits of an integer to represent subsets of a set. 
+# It's an incredibly powerful method, especially for problems that require you to traverse through all possible subsets of a given set.
